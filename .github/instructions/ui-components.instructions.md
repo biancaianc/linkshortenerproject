@@ -1,3 +1,8 @@
+---
+description: Read this before implementing or modifying UI components to understand the guidelines in this project
+
+---
+
 # UI Components Guide
 
 ## Component Library Standard

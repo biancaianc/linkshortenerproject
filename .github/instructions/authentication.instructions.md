@@ -1,3 +1,6 @@
+---
+description: Read this file before implementing or modifying authentication to understand the authentication and security guidelines for the project
+---
 # Authentication & Security
 
 ## Authentication Provider
